@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# Neovim cache
+nvim/.config/nvim/lazy-lock.json
+nvim/.config/nvim/lazy
+nvim/.config/nvim/.luarc.json
+nvim/.config/nvim/spell
+nvim/.config/nvim/.luarc.json
+
+# Local/share (not tracked)
+.local/
+
+# Sensitive
+*.env
+*.secret
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Arch-Dots submodule (not needed)
+.gitmodules
