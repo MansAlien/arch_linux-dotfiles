@@ -94,7 +94,7 @@ yay -S --needed \
 ### 2. Clone Dotfiles
 
 ```bash
-git clone https://github.com/YOUR_USER/dotfiles ~/Alien/dotfiles
+git clone https://github.com/MansAlien/arch_linux-dotfiles ~/Alien/dotfiles
 ```
 
 ### 3. Install (Symlink)
